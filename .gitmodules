@@ -1,0 +1,3 @@
+[submodule "powersensor_ai"]
+	path = 4.powersensor_ai
+	url = https://gitee.com/powersensor/powersensor_ai.git
